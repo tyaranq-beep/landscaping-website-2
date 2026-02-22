@@ -45,7 +45,7 @@ const Navbar = () => {
                     animate={{ opacity: 1, x: 0 }}
                     className="flex items-center gap-2"
                 >
-                    {siteConfig.company.logoUrl !== '/vite.svg' ? (
+                    {siteConfig.company.logoUrl && siteConfig.company.logoUrl !== '/vite.svg' ? (
                         <img src={siteConfig.company.logoUrl} alt={siteConfig.company.name} className="h-10 object-contain" />
                     ) : (
                         <span className="font-serif text-2xl tracking-widest font-bold text-[var(--accent)]">{siteConfig.company.name}</span>

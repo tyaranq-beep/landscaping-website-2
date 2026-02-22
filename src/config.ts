@@ -7,9 +7,9 @@ export const siteConfig = {
     company: {
         name: '【会社名プレースホルダー】',
         shortName: '【略称】',
-        // ロゴ画像のURL。取得でき次第ここにURLまたはローカルパス（'/src/assets/logo.png'など）を入力します。
+        // 取得でき次第ここにURLまたはローカルパス（'/src/assets/logo.png'など）を入力します。
         // ※未設定の場合は会社名がテキストで表示されます。
-        logoUrl: '/src/assets/logo.png',
+        logoUrl: '',
         phone: '【000-000-0000】', // ダミー電話番号
         businessHours: '9:00 - 18:00', // ダミー対応時間
         license: '【必要に応じて許可証番号など】',
