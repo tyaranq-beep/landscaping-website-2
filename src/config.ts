@@ -29,7 +29,7 @@ export const siteConfig = {
         title: '美しく清潔な水辺空間を\nプロの技術で守ります。',
         subtitle: '地域No.1の信頼と実績',
         description: 'ご家庭のプールメンテナンスから、リフォーム・修理まで。\n安心・安全で快適な環境づくりをご提供します。',
-        backgroundImage: 'https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?q=80&w=2000&auto=format&fit=crop', // プール/水辺のダミー画像
+        backgroundImage: 'https://placehold.co/1920x1080/0f172a/FFFFFF/png?text=Main+Hero+Image', // プール/水辺のダミー画像
     },
 
     // 4. 強み・選ばれる理由
@@ -65,25 +65,25 @@ export const siteConfig = {
                 icon: 'Lamp',
                 title: '定期清掃・メンテナンス',
                 desc: '水質管理から清掃まで、快適な状態を維持するための定期サポート。',
-                img: 'https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?q=80&w=800&auto=format&fit=crop'
+                img: 'https://placehold.co/800x600/1e293b/FFFFFF/png?text=Service'
             },
             {
                 icon: 'Home',
                 title: '設備の修理・交換',
                 desc: 'ポンプやフィルターなどの設備トラブルの早期発見・修理対応。',
-                img: 'https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=800&auto=format&fit=crop'
+                img: 'https://placehold.co/800x600/1e293b/FFFFFF/png?text=Service'
             },
             {
                 icon: 'Trees',
                 title: 'リフォーム・改修工事',
                 desc: '古くなった設備の近代化や、より使いやすい環境へのリニューアル。',
-                img: 'https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?q=80&w=800&auto=format&fit=crop'
+                img: 'https://placehold.co/800x600/1e293b/FFFFFF/png?text=Service'
             },
             {
                 icon: 'ShieldCheck',
                 title: '水質・安全検査',
                 desc: 'ご家族が安心して利用できるよう、専門的な水質検査を実施します。',
-                img: 'https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=800&auto=format&fit=crop'
+                img: 'https://placehold.co/800x600/1e293b/FFFFFF/png?text=Service'
             }
         ]
     },
@@ -96,17 +96,17 @@ export const siteConfig = {
             {
                 title: '定期清掃と水質改善',
                 category: 'A様邸',
-                img: 'https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?q=80&w=1200&auto=format&fit=crop'
+                img: 'https://placehold.co/1200x800/0f172a/FFFFFF/png?text=Portfolio'
             },
             {
                 title: 'ポンプ設備の修理・交換',
                 category: 'B様施設',
-                img: 'https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=1200&auto=format&fit=crop'
+                img: 'https://placehold.co/1200x800/0f172a/FFFFFF/png?text=Portfolio'
             },
             {
                 title: '全体リニューアル工事',
                 category: 'C様邸',
-                img: 'https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?q=80&w=1200&auto=format&fit=crop'
+                img: 'https://placehold.co/1200x800/0f172a/FFFFFF/png?text=Portfolio'
             }
         ]
     },
