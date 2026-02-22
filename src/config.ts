@@ -65,7 +65,7 @@ export const siteConfig = {
                 icon: 'Lamp',
                 title: '定期清掃・メンテナンス',
                 desc: '水質管理から清掃まで、快適な状態を維持するための定期サポート。',
-                img: 'https://images.unsplash.com/photo-1582298538104-fe2f309aeb78?q=80&w=800&auto=format&fit=crop'
+                img: 'https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?q=80&w=800&auto=format&fit=crop'
             },
             {
                 icon: 'Home',
@@ -77,13 +77,13 @@ export const siteConfig = {
                 icon: 'Trees',
                 title: 'リフォーム・改修工事',
                 desc: '古くなった設備の近代化や、より使いやすい環境へのリニューアル。',
-                img: 'https://images.unsplash.com/photo-1541888081600-410bfac6deab?q=80&w=800&auto=format&fit=crop'
+                img: 'https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?q=80&w=800&auto=format&fit=crop'
             },
             {
                 icon: 'ShieldCheck',
                 title: '水質・安全検査',
                 desc: 'ご家族が安心して利用できるよう、専門的な水質検査を実施します。',
-                img: 'https://images.unsplash.com/photo-1534430480872-3498386e7a56?q=80&w=800&auto=format&fit=crop'
+                img: 'https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=800&auto=format&fit=crop'
             }
         ]
     },
@@ -96,7 +96,7 @@ export const siteConfig = {
             {
                 title: '定期清掃と水質改善',
                 category: 'A様邸',
-                img: 'https://images.unsplash.com/photo-1582298538104-fe2f309aeb78?q=80&w=1200&auto=format&fit=crop'
+                img: 'https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?q=80&w=1200&auto=format&fit=crop'
             },
             {
                 title: 'ポンプ設備の修理・交換',
